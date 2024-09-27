@@ -8,10 +8,13 @@ Estructura de la base de datos de la optica con las colecciones solicitadas Clie
 -**Ejercicio 1 - Punto de Vista del Cliente**
 
 Imagina que la siguiente intrefaz gráfica desde el punto de vista del cliente, ¿Cómo diseñarías la base de datos para que se facilite la informaión mostrada?
+
 ![Punto Vista Cliente](https://raw.githubusercontent.com/vortex11211/2.3-Estructura_de_Base_de_Datos_MongoDB-Nivel3/refs/heads/master/nivel%201/vista_cliente.jpg)
 
 -**Ejercicio 2 - Punto de Vista Gafas**
+
 Adaptar la estructura de la base de datos para facilitar la información que se muestra en la interfaz.
+
 ![Punto de vista gafas](https://raw.githubusercontent.com/vortex11211/2.3-Estructura_de_Base_de_Datos_MongoDB-Nivel3/refs/heads/master/nivel%201/vista_optica.jpg)
 
 Para esto se realizo el diagrama con [Moon Modeler](https://www.datensen.com/download.html "Moon Modeler")
